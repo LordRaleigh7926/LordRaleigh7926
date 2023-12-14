@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,dart&perline=5)](https://skillicons.dev)
 
 ## Technologies and Frameworks used:
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,git,github,linux,md,vscode,androidstudio,flutter,bots&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,git,github,linux,vim,md,vscode,replit,androidstudio,flutter,bots&perline=5)](https://skillicons.dev)
 
 
 
