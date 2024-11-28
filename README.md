@@ -25,4 +25,6 @@
 
 <br>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordraleigh7926&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="LordRaleigh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordraleigh7926&show_icons=true&locale=en&layout=compact" alt="LordRaleigh" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordraleigh7926&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="LordRaleigh" /></p>
+ -->
